@@ -1,2 +1,4 @@
-# fofi_repo_github
-This is a repo copied from https://bitbucket.org/AlexanderD18/fofi_repository . this repo was intially uploaded on a bitbucket repo, this is for being deploy on Heroku pipeline.
+# Food Finder Application
+This repository was created in order to participate in a competition. The idea is basically to create a dashboard for places such as restaurants.
+
+To access the dashboard, the user must enter the username and password of those who are enabled or have the role as administrator. Otherwise they will not be able to access the dashboard 
