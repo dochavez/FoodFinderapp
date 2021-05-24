@@ -1,0 +1,19 @@
+
+.splitter {
+  display: inline;
+  max-width: 100vh;
+  ul {
+    display: flex;
+    max-width: 100vh;
+    overflow: auto;
+    list-style: none;
+    li {
+      display: grid;
+      width: 300px;
+      img {
+        max-width:100%;
+        height:200px;
+      }
+    }
+  }
+}

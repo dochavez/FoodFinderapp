@@ -1,0 +1,40 @@
+{
+  "Users": [
+    {
+      "name": "Valentis Pizza",
+      "username": "valenpizza",
+      "password": "valenpizzapass",
+      "isAdmin": true
+    },
+    {
+      "name": "McDonalds",
+      "username": "mcdonalds",
+      "password": "mcdonaldspass",
+      "isAdmin": true
+    },
+    {
+      "name": "Reynerio Jose Davila Silva",
+      "username": "reyneriod",
+      "password": "reyneriodpass",
+      "isAdmin": false
+    },
+    {
+      "name": "Maria Alejandra Castillo Peraltes",
+      "username": "mariacastillo",
+      "password": "mariacastillopass",
+      "isAdmin": false
+    },
+    {
+      "name": "Francisco Antonio Molina Medrano",
+      "username": "franmolina",
+      "password": "franmolinapass",
+      "isAdmin": true
+    },
+    {
+      "name": "Juan Rafael Espinoza Chaves",
+      "username": "juanchaves",
+      "password": "juanchavespass",
+      "isAdmin": true
+    }
+  ]
+}
